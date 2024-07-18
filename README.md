@@ -1,2 +1,2 @@
 # openshift-cluster-operator-projects
-OpenShift cluster operators mapped to their respective projects
+This mind map shows OpenShift cluster operators mapped to their respective projects.
